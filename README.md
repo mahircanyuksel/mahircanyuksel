@@ -14,6 +14,7 @@
 **Databases:** Elasticsearch, Redis, PL/SQL, MongoDB, PostgreSQL  
 
 ## Personal Projects  
+- **[FeedSense]** → Loading :) 
 - **[Sonic](#)** → AI-powered **Text-to-Speech** app for multi-language voice generation.  
 - **[Feel Free](#)** → A sentiment analysis SaaS for Twitter & Reddit.  
 - **[ExtracText](#)** → OCR-powered text extraction from PDFs & images.  
